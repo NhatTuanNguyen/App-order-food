@@ -92,44 +92,25 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
 ## Yêu cầu thiết bị
 -Android:
 
-   +Android studio : 3.0.1
+   +Android studio : 4.1.1
 
    +Gradle : 4.1
 
-   +Min sdk : 19
+   +Min sdk : 21
 
-   +Target sdk : 26
+   +Target sdk : 28
 
--iOS:
 
-   +iOS: 8.0
 
 ## Thư viện và công nghệ
 
-- Language : Javascript
+- Language : Java
 
-- FrameWork : React Native 0.55.4
+- Database: Sử dụng Firebase của google
 
-- Database: phpMyAdmin
-
-* react-native - https://github.com/facebook/react-native
-
-* react-navigation - https://github.com/react-navigation/react-navigation
-
-* react-native-maps - https://github.com/react-native-community/react-native-maps
-
-* react-native-swiper - https://github.com/leecade/react-native-swiper
-
-* react-native-linear-gradient - https://github.com/react-native-community/react-native-linear-gradient
-
-* react-native-view-more-text - https://github.com/nlt2390/react-native-view-more-text
 
 ## Tác giả
-Lê Trọng Tín - 15520893@gm.uit.edu.vn
-
-Huỳnh Việt Tiến - 15520877@gm.uit.edu.vn
-
-Hồ Hoàng Phi Long - 15520439@gm.uit.edu.vn
+Nguyễn Nhật Tuấn-18521603
 
 ## Giấy phép
 
