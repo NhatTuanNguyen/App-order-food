@@ -29,22 +29,20 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
 
 ## Chức năng
 ### Đăng nhập / Đăng kí
+   * Giao diện
+   
    * Đăng nhập
   
    * Đăng kí
    
    <p align="center">
-   <img src="screenshots/dn.png" height = "480" width="270"> <img src="screenshots/dk.png" height = "480" width="270">
+   <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dk.PNG" height = "480" width="270">
    </p>
     
-<<<<<<< HEAD
-### Xem show diễn hót
-   * Top show
-=======
+
 ### Tài khoảng admin
    * Xem danh sách tài khoản
->>>>>>> eba49d698c383305cdbe06e0e1c05dfcb5a50e52
-  
+
    * Thêm tài khoảng quán ăn
   
    * Xóa tài khoản quán ăn
@@ -54,10 +52,12 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    * Đăng xuất
    
    <p align="center">
-   <img src="screenshots/gdad.png" height = "480" width="270"> <img src="screenshots/ds.png" height = "480" width="270"> <img src="screenshots/ttk.png" height = "480" width="270"> <img src="screenshots/xtk.png" height = "480" width="270"> <img src="screenshots/mk.png" height = "480" width="270"> <img src="screenshots/dx.png" height = "480" width="270">
+   <img src="screenshots/gdad.PNG" height = "480" width="270"> <img src="screenshots/ds.PNG" height = "480" width="270"> <img src="screenshots/ttk.PNG" height = "480" width="270"> <img src="screenshots/xtk.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270"> <img src="screenshots/dx.PNG" height = "480" width="270">
    </p>
     
 ### Tài khoản quán ăn
+   * Giao diện
+   
    * Danh sách món ăn
   
    * Thêm món ăn
@@ -69,42 +69,26 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    * Đổi mật khẩu
      
    <p align="center">
-   <img src="screenshots/singer.png" height = "480" width="270"> <img src="screenshots/list.png" height = "480" width="270">
+   <img src="screenshots/gdqa.PNG" height = "480" width="270"> <img src="screenshots/dsqa.PNG" height = "480" width="270"> <img src="screenshots/tm.PNG" height = "480" width="270"> <img src="screenshots/dhdd.PNG" height = "480" width="270"> <img src="screenshots/cn.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270">
    </p>
 
-### Tìm kiếm show diễn
-   * Tìm theo tên
-  
-   * Tìm trên map
+### Tài khoản khách hàng
+   * Giao diện
+   
+   * Xem thông tin cá nhân
+   
+   * tìm kiếm món ăn
+   
+   * xem giỏ hàng
+   
+   * món ăn yêu thích
    
    <p align="center">
-   <img src="screenshots/search.png" height = "480" width="270"> <img src="screenshots/search map.png" height = "480" width="270">
+   <img src="screenshots/gdkh.PNG" height = "480" width="270"> <img src="screenshots/gdkh2.PNG" height = "480" width="270"> <img src="screenshots/gdkh3.PNG" height = "480" width="270"> <img src="screenshots/ttcn.PNG" height = "480" width="270"> <img src="screenshots/tk.PNG" height = "480" width="270"> <img src="screenshots/dh.PNG" height = "480" width="270"> <img src="screenshots/mayt.PNG" height = "480" width="270">
    </p>
 
-### Xem lịch diễn các show trong tháng
-   
-   <p align="center">
-   <img src="screenshots/schedule.png" height = "480" width="270">
-   </p>
 
-### Lưu show diễn, ca sĩ yêu thích
-   * Xem show quan tâm
-  
-   * Xem ca sĩ yêu thích
-   
-   <p align="center">
-   <img src="screenshots/interest.png" height = "480" width="270"> <img src="screenshots/list show 1.png" height = "480" width="270"> <img src="screenshots/list singer.png" height = "480" width="270">
-   </p>
 
-### Xem thông tin tài khoản
-   * Xem chính sách, liên lạc
-  
-   * Đổi thông tin tài khoản
-   
-   <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
-   </p>
-   
 ## Yêu cầu thiết bị
 -Android:
 
