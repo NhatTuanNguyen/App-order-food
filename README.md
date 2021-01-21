@@ -69,7 +69,7 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    * Đổi mật khẩu
      
    <p align="center">
-   <img src="screenshots/gdqa.PNG" height = "480" width="270"> <img src="screenshots/dsqa.PNG" height = "480" width="270"> <img src="screenshots/tm.PNG" height = "480" width="270"> <img src="screenshots/dhdd.PNG" height = "480" width="270"> <img src="screenshots/cn.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270">
+   <img src="screenshots/gdqa.png" height = "480" width="270"> <img src="screenshots/dsqa.PNG" height = "480" width="270"> <img src="screenshots/tm.PNG" height = "480" width="270"> <img src="screenshots/dhdd.PNG" height = "480" width="270"> <img src="screenshots/cn.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270">
    </p>
 
 ### Tài khoản khách hàng
