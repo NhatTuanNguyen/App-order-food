@@ -7,17 +7,12 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
 
    1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng-kí)
 
-   1. [Xem show diễn hot](#xem-show-diễn-hot)
+   1. [Tài khoản admin](#Tài-khoản-admin)
    
-   1. [Xem show ca sĩ yêu thích](#xem-show-ca-sĩ-yêu-thích)
+   1. [Tài khoản quán ăn](#Tài-khoản-quán-ăn)
 
-   1. [Tìm kiếm show diễn](#tìm-kiếm-show-diễn)
+   1. [Tài khoản khách hàng](#Tài-khoản-khách-hàng)
    
-   1. [Xem lịch diễn các show trong tháng](#xem-lịch-diễn-các-show-trong-tháng)
-
-   1. [Lưu show diễn, ca sĩ yêu thích](#xem-show-diễn,-ca-sĩ-yêu-thích)
-
-   1. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
    
 1. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
