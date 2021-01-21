@@ -1,4 +1,4 @@
-# Ứng dụng iFan - Theo chân thần tượng
+# Ứng dụng  - Order Food
 
 Ứng dụng cập nhật các show ca nhạc lớn diễn ra trong nước, thông tin chi tiết thời gian, địa điểm, giá vé...
 Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
