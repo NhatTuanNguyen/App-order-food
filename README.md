@@ -38,13 +38,9 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    </p>
     
 
-### Xem show diễn hót
-   * Top show
-=======
 ### Tài khoảng admin
    * Xem danh sách tài khoản
 
-  
    * Thêm tài khoảng quán ăn
   
    * Xóa tài khoản quán ăn
@@ -54,7 +50,7 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    * Đăng xuất
    
    <p align="center">
-   <img src="screenshots/gdad.png" height = "480" width="270"> <img src="screenshots/ds.png" height = "480" width="270"> <img src="screenshots/ttk.png" height = "480" width="270"> <img src="screenshots/xtk.png" height = "480" width="270"> <img src="screenshots/mk.png" height = "480" width="270"> <img src="screenshots/dx.png" height = "480" width="270">
+   <img src="screenshots/gdad.PNG" height = "480" width="270"> <img src="screenshots/ds.PNG" height = "480" width="270"> <img src="screenshots/ttk.PNG" height = "480" width="270"> <img src="screenshots/xtk.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270"> <img src="screenshots/dx.PNG" height = "480" width="270">
    </p>
     
 ### Tài khoản quán ăn
