@@ -34,16 +34,16 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    * Đăng kí
    
    <p align="center">
-   <img src="screenshots/dn.png" height = "480" width="270"> <img src="screenshots/dk.png" height = "480" width="270">
+   <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dk.PNG" height = "480" width="270">
    </p>
     
-<<<<<<< HEAD
+
 ### Xem show diễn hót
    * Top show
 =======
 ### Tài khoảng admin
    * Xem danh sách tài khoản
->>>>>>> eba49d698c383305cdbe06e0e1c05dfcb5a50e52
+
   
    * Thêm tài khoảng quán ăn
   
