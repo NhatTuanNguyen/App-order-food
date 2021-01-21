@@ -1,8 +1,7 @@
 # Ứng dụng  - Order Food
 
-Ứng dụng cập nhật các show ca nhạc lớn diễn ra trong nước, thông tin chi tiết thời gian, địa điểm, giá vé...
-Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
-
+Ứng dụng được dùng để đặt đồ ăn online cho nhưng người có nhu cầu mua đồ ăn tương tự như Grap food,baemin và còn cho phép các quán ăn có thể 
+quản lí,cập nhật,nhận đơn hàng từ khách hàng.
 ## Nội dung
 1. [Chức năng](#chức-năng)
 
@@ -35,24 +34,34 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
    * Đăng kí
    
    <p align="center">
-   <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
+   <img src="screenshots/dn.png" height = "480" width="270"> <img src="screenshots/dk.png" height = "480" width="270">
    </p>
     
-### Xem show diễn hot
-   * Top show
+### Tài khoảng admin
+   * Xem danh sách tài khoản
   
-   * Show diễn hot
+   * Thêm tài khoảng quán ăn
   
-   * Chi tiết show diễn
+   * Xóa tài khoản quán ăn
+   
+   * Thay đổi mật khẩu
+   
+   * Đăng xuất
    
    <p align="center">
-   <img src="screenshots/home.png" height = "480" width="270"> <img src="screenshots/show.png" height = "480" width="270"> <img src="screenshots/show1.png" height = "480" width="270">
+   <img src="screenshots/gdad.png" height = "480" width="270"> <img src="screenshots/ds.png" height = "480" width="270"> <img src="screenshots/ttk.png" height = "480" width="270"> <img src="screenshots/xtk.png" height = "480" width="270"> <img src="screenshots/mk.png" height = "480" width="270"> <img src="screenshots/dx.png" height = "480" width="270">
    </p>
     
-### Xem show ca sĩ yêu thích
-   * Thông tin ca sĩ
+### Tài khoản quán ăn
+   * Danh sách món ăn
   
-   * Các show diễn của ca sĩ
+   * Thêm món ăn
+   
+   * Các đơn đặt hàng
+   
+   * Cập nhật thông tin
+   
+   * Đổi mật khẩu
      
    <p align="center">
    <img src="screenshots/singer.png" height = "480" width="270"> <img src="screenshots/list.png" height = "480" width="270">
