@@ -29,12 +29,14 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
 
 ## Chức năng
 ### Đăng nhập / Đăng kí
+   * Giao diện
+   
    * Đăng nhập
   
    * Đăng kí
    
    <p align="center">
-   <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dk.PNG" height = "480" width="270">
+   <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dn.PNG" height = "480" width="270"> <img src="screenshots/dk.PNG" height = "480" width="270">
    </p>
     
 
@@ -54,6 +56,8 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    </p>
     
 ### Tài khoản quán ăn
+   * Giao diện
+   
    * Danh sách món ăn
   
    * Thêm món ăn
@@ -68,39 +72,23 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    <img src="screenshots/gdqa.PNG" height = "480" width="270"> <img src="screenshots/dsqa.PNG" height = "480" width="270"> <img src="screenshots/tm.PNG" height = "480" width="270"> <img src="screenshots/dhdd.PNG" height = "480" width="270"> <img src="screenshots/cn.PNG" height = "480" width="270"> <img src="screenshots/mk.PNG" height = "480" width="270">
    </p>
 
-### Tìm kiếm show diễn
-   * Tìm theo tên
-  
-   * Tìm trên map
+### Tài khoản khách hàng
+   * Giao diện
+   
+   * Xem thông tin cá nhân
+   
+   * tìm kiếm món ăn
+   
+   * xem giỏ hàng
+   
+   * món ăn yêu thích
    
    <p align="center">
-   <img src="screenshots/search.png" height = "480" width="270"> <img src="screenshots/search map.png" height = "480" width="270">
+   <img src="screenshots/gdkh.PNG" height = "480" width="270"> <img src="screenshots/gdkh2.PNG" height = "480" width="270"> <img src="screenshots/gdkh3.PNG" height = "480" width="270"> <img src="screenshots/ttcn.PNG" height = "480" width="270"> <img src="screenshots/tk.PNG" height = "480" width="270"> <img src="screenshots/dh.PNG" height = "480" width="270"> <img src="screenshots/mayt.PNG" height = "480" width="270">
    </p>
 
-### Xem lịch diễn các show trong tháng
-   
-   <p align="center">
-   <img src="screenshots/schedule.png" height = "480" width="270">
-   </p>
 
-### Lưu show diễn, ca sĩ yêu thích
-   * Xem show quan tâm
-  
-   * Xem ca sĩ yêu thích
-   
-   <p align="center">
-   <img src="screenshots/interest.png" height = "480" width="270"> <img src="screenshots/list show 1.png" height = "480" width="270"> <img src="screenshots/list singer.png" height = "480" width="270">
-   </p>
 
-### Xem thông tin tài khoản
-   * Xem chính sách, liên lạc
-  
-   * Đổi thông tin tài khoản
-   
-   <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
-   </p>
-   
 ## Yêu cầu thiết bị
 -Android:
 
