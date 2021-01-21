@@ -35,7 +35,7 @@ quản lí,cập nhật,nhận đơn hàng từ khách hàng.
    </p>
     
 
-### Tài khoảng admin
+### Tài khoản admin
    * Xem danh sách tài khoản
 
    * Thêm tài khoảng quán ăn
